@@ -23,15 +23,17 @@ function Form() {
   return (
     <form>
       <input
-        type="text"
-        onChange={handleFirstNameChange}
-        value={formData.firstName}
-      />
-      <input
-        type="text"
-        onChange={handleLastNameChange}
-        value={formData.lastName}
-      />
+  type="text"
+  name="firstName"
+  value={formData.firstName}
+  onChange={handleFirstNameChange}
+/>
+<input
+  type="text"
+  name="lastName"
+  value={formData.lastName}
+  onChange={handleLastNameChange}
+/>
     </form>
   );
 }
