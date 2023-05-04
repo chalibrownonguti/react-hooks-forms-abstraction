@@ -1,4 +1,4 @@
-<!-- # BONUS: React Forms Abstraction
+# BONUS: React Forms Abstraction
 
 ## Learning Goals
 
@@ -245,4 +245,4 @@ your forms.
 
 ## Resources
 
-- [React Forms](https://reactjs.org/docs/forms.html) -->
+- [React Forms](https://reactjs.org/docs/forms.html)
